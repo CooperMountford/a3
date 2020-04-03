@@ -1,2 +1,5 @@
 # a3
- LLFS
+
+
+Makefile from forums
+Hex code from stockoverflow
